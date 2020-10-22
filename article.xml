@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="article.xsd"   url="www.google.com" xml:lang="fr">
+    
+    <tête>
+        <sujets>
+            <sujet></sujet>
+        </sujets>
+        <titre>Bretagne: la plus petite usine française de pulls marins tricote une nouvelle maille de son histoire</titre>
+        <résumé>
+            Depuis 1986, Dominique et Isabelle Josselin confectionnent des pulls marins dans les Côtes d’Armor. C’est un couple de trentenaires en reconversion qui va poursuivre l’histoire de leur entreprise. Une transmission en douceur pour assurer la pérénité de la marque "Baie de Caps". </résumé>
+        <auteurs>
+            <auteur>Nathalie Rossignol</auteur>
+        </auteurs>
+        <contributeur>Benoit Thibaut></contributeur>
+        <création>2020-10-09 </création>
+        <modification>2020-10-09</modification>
+        <image url="https://france3-regions.francetvinfo.fr/image/vRbrgJPpjur-YAun256wapIp8wg/930x620/regions/2020/10/08/5f7f1a450fa30_img_8199-5033594.jpg"></image>
+        <publication>2020-10-09 </publication>
+        <propriété>France Télévisions</propriété>
+    </tête>
+    
+    
+    <corps>
+        <section>
+          
+            <titre>Rêver d'une entreprise à deux</titre>
+            <paragraphe>
+                
+                Geoffroy et Lucie de Pinieux, trentenaires, habitaient Laval en Mayenne. Lui, travaillait dans le milieu du tourisme, elle, dans l’immobilier. Tous les deux rêvaient de créer ensemble une entreprise. C’est leur expert-comptable qui les a mis sur la piste de « Baie des Caps » qui était en vente. Une petite structure de quatre salariés à Ploubalay dans les Côtes d’Armor, spécialisée dans la fabrication sur place de pulls marins. 
+                <citation>« C’est fou, on ne pensait pas que c’était possible de créer des pulls avec seulement quatre salariés. </citation>
+                raconte Lucie de Pinieux. 
+                <citation>Ce qui nous a plu, c’est l’idée de participer à chaque étape de la fabrication, du choix des matières, au tricotage, à l’assemblage, les finitions jusqu’à la vente directe. Aujourd’hui, quelle entreprise a la chance de maîtriser toute la chaine ? C’est rare.</citation>
+            </paragraphe>
+        </section>
+        
+        <section>
+            <titre>Transmettre une vie de travail</titre>
+            <paragraphe>
+                
+                <lien url="https://france3-regions.francetvinfo.fr/image/oORTXWJcRydXni_bhTtXOEFUn_Y/930x620/regions/2020/10/08/5f7f188c0bfa7_img_8323_2-5033524.jpg"></lien>
+                Du côté de Dominique et Isabelle Josselin, l’heure de la retraite se rapprochant, l’idée de transmettre l’entreprise avait fait son chemin. Leur fils unique n’étant pas intéressé, alors à qui transmettre « le bébé » ? La commune s’étant portée acquéreur des bâtiments, restait alors à trouver un repreneur.
+                <citation>« Baie des Caps aurait pu s’arrêter, on pouvait vendre le matériel, licencier le personnel… Nous avons eu plusieurs offres d’achat mais certains voulaient délocaliser la fabrication ailleurs en France, d’autres étaient impressionnés par les machines à tricoter. Ça ne s’improvise pas ces machines, c’est pas juste appuyer sur un bouton ! »</citation>
+            </paragraphe>
+        </section>
+    </corps>
+    
+    
+</article>
